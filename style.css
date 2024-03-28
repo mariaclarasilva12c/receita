@@ -52,6 +52,7 @@
         background-color: #fff7fb;
         padding: 28px;
         border-radius: 12px;
+        margin-bottom: 32px;
 
     }
 
@@ -78,5 +79,18 @@
 
     ol, ul {
         margin-left: 20px;
+
+    }
+    
+    .tempo li::marker{
+        color: #7a284e;
+        font-size: 12px;
+    }
+
+    h2 {
+        font-size: 28px;
+        color: #854632;
+        line-height: 100%;
+        margin-bottom: 24px;
 
     }
